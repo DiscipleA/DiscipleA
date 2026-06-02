@@ -1,4 +1,4 @@
-<img width="200%" height="25%" alt="banner-animated" src="https://github.com/user-attachments/assets/20f29229-9aa8-4daa-a3c3-011939d9a5c2" />
+<img width="200%" height="100%" alt="banner-animated" src="https://github.com/user-attachments/assets/20f29229-9aa8-4daa-a3c3-011939d9a5c2" />
 ## Hi there 👋
 
 <!--
