@@ -10,7 +10,7 @@ Full-time App Development student building AI-integrated trading dashboards and 
 
 ### 🔭 What I'm Building
 
-- **AD312 Portfolio Platform (public)** — React educational app with embedded AI tutor (in workings) — [nsc-app-dev-courses.netlify.app](https://nsc-app-dev-courses.netlify.app)
+- **App Dev Course Platform (public)** — React educational app with embedded AI tutor (in workings) — [nsc-app-dev-courses.netlify.app](https://nsc-app-dev-courses.netlify.app)
 - **Trading Command Center (private)** — 14-panel crypto/stock dashboard with autonomous AI agents for market analysis, trade orchestration, and portfolio tracking
 
 ### 🌱 What I'm Learning
