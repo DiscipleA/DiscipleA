@@ -1,5 +1,3 @@
-<img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/1aea520f-af48-4f6f-aa15-873ab0d5416e" />
-<img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/e3ab65f1-dcce-403e-a1cf-cfdde37a090d" />
 <img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/740b6394-2eb0-4555-b9c5-537d1f6029b1" />
 <!--
 **DiscipleA/DiscipleA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
