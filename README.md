@@ -2,7 +2,7 @@
 
 ## Dmitriy Chernichenko (Disciple)
 
-**AI-Integrated App Developer | Fullstack in Training | SQL • Python • React**
+**Fullstack AI-Integrated App | Developer in Training | React • SQL • Python **
 
 Full-time App Development student building AI-integrated trading dashboards and educational platforms. Currently balancing school, healthcare staffing coordination, and IT tutoring — bringing real operations experience into every application I build.
 
