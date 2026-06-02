@@ -1,6 +1,4 @@
-<img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/20f29229-9aa8-4daa-a3c3-011939d9a5c2" />
-## Hi there 👋
-
+<img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/5772bb66-0cea-4c94-b461-f9a2fa027156" />
 <!--
 **DiscipleA/DiscipleA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
