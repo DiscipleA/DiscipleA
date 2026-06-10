@@ -1,6 +1,5 @@
 <img width="850" height="150" alt="ai-integrated-apps-development-2x-rain-no-strip" src="https://github.com/user-attachments/assets/1dc8e8d4-8d98-4a54-9fdc-2c5fde708f08" />
-<!-- img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/ebdf2c09-5b01-4af5-a1c0-8e4fe27c4c34" / -->
-<!-- img width="850" height="150" alt="ai-integrated-apps-development-original-style-2x-rain" src="https://github.com/user-attachments/assets/f50c92ec-8189-4a7a-91b0-05231b07e4e5" / -->
+<img width="850" height="150" alt="banner-animated" src="https://github.com/user-attachments/assets/ebdf2c09-5b01-4af5-a1c0-8e4fe27c4c34" />
 
 
 ## Dmitriy Chernichenko (Disciple)
